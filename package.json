@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@babel/core": "^7.21.3",
     "@next/font": "13.1.6",
     "@sanity/client": "^5.2.2",
     "@sanity/image-url": "^1.0.1",
